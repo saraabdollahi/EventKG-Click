@@ -16,3 +16,16 @@ EventKG+Click consists of two subsets:
 1. EventKG+Click_event which contains relevance scores, location-closeness, recency and Wikipedia link count factors for more than 4 thousand events; and
 
 2. EventKG+Click_relation with nearly 10 thousand event-centric click-through pairs, and their langugae specific number of clicks, relation relevance and co-mentions of the relation which is the number of sentences in whole Wikipedia language editions that mentions both the source and target.
+
+
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a [Creative Commons Attribution 4.0 International
+License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
