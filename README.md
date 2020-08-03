@@ -1,4 +1,4 @@
-About Dataset
+## About Dataset
 
 
 
@@ -10,12 +10,15 @@ EventKG+Click is a novel cross-lingual dataset that reflects the language-specic
 and their relations that partially originates from Wikipedia.
 
 
-EventKG+Click consists of two subsets: 
+**EventKG+Click consists of two subsets:**
 
 
 1. EventKG+Click_event which contains relevance scores, location-closeness, recency and Wikipedia link count factors for more than 4 thousand events; and
 
 2. EventKG+Click_relation with nearly 10 thousand event-centric click-through pairs, and their langugae specific number of clicks, relation relevance and co-mentions of the relation which is the number of sentences in whole Wikipedia language editions that mentions both the source and target.
+
+
+You can find a complete step by step walkthrough the process of EventKG+Click creation at EventKG-Click/EventKG+Click Walkthrough.
 
 
 
