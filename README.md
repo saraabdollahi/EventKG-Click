@@ -32,7 +32,6 @@ License][cc-by].
 
 
 
-Citing
 If you find EventKG+Click dataset useful for your research, please consider citing the following paper:
 
 @article{abdollahieventkg+,
