@@ -18,7 +18,7 @@ and their relations that partially originates from Wikipedia.
 2. EventKG+Click_relation with nearly 10 thousand event-centric click-through pairs, and their langugae specific number of clicks, relation relevance and co-mentions of the relation which is the number of sentences in whole Wikipedia language editions that mentions both the source and target.
 
 
-You can find a complete step by step walkthrough the process of EventKG+Click creation at EventKG-Click/EventKG+Click Walkthrough.
+You can find a complete step by step walkthrough the process of EventKG+Click creation [here](https://github.com/saraabdollahi/EventKG-Click/blob/master/EventKG%2BClick%20Walkthrough.ipynb).
 
 
 
