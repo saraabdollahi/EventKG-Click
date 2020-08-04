@@ -41,4 +41,4 @@ If you find EventKG+Click dataset useful for your research, please consider citi
   title={EventKG+ Click: A Dataset of Language-specific Event-centric User Interaction Traces},
   author={Abdollahi, Sara and Gottschalk, Simon and Demidova, Elena}
 }
-}
+
