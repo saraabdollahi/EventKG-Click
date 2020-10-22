@@ -37,8 +37,8 @@ License][cc-by].
 
 If you find EventKG+Click dataset useful for your research, please consider citing the following paper:
 
-@article{abdollahieventkg+,
-  title={EventKG+ Click: A Dataset of Language-specific Event-centric User Interaction Traces},
-  author={Abdollahi, Sara and Gottschalk, Simon and Demidova, Elena}
-}
+     @article{abdollahieventkg+,
+     title={EventKG+ Click: A Dataset of Language-specific Event-centric User Interaction Traces},
+     author={Abdollahi, Sara and Gottschalk, Simon and Demidova, Elena}
+    }
 
